@@ -1,7 +1,7 @@
-# A-fast-spectral-clustering-technique-using-MST-based-proximity-graph-for-diversified-datasets
+This GitHub repository provides the implementation of the spectral clustering algorithm proposed by the journal paper titled:
+# "A fast spectral clustering technique using MST-based proximity graph for diversified datasets"
 https://doi.org/10.1016/j.ins.2022.07.101
 
-This GitHub repository provides the implementation of the spectral clustering algorithm proposed by the journal paper titled "A fast spectral clustering technique using MST-based proximity graph for diversified datasets" https://doi.org/10.1016/j.ins.2022.07.101
 
 The implementation is in the Python, Jupyter Notebook.
 
